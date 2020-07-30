@@ -1,4 +1,4 @@
-# HugeInt Calculator
+# HUGE INT CALCULATOR
 
 A Calculator application that allows Multiplication, Subtraction, Addition, Division, and Square Root computation of integers upto 200 digits.
 
